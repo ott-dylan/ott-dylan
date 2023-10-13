@@ -6,7 +6,7 @@ Driven high school senior with a passion for computer science and entrepreneursh
 Want to know more about me? 
 
   <p>
-    <a href="https://www.linkedin.com/in/hgdsandakalum/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+    <a href="[https://www.linkedin.com/in/hgdsandakalum/](https://www.linkedin.com/in/ott-dylan/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
   </p>
 
 ## Skills <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25px">
