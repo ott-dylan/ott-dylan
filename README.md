@@ -1,3 +1,4 @@
+<img src="https://i.ibb.co/PWMwY7s/calvinhobbs.jpg" >
 <h1>Hi there, I'm Dylan Ott <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>   
 
 Driven high school senior with a passion for computer science and entrepreneurship, ready to make a lasting difference.
